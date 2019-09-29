@@ -1,0 +1,6 @@
+[submodule "course-certifier-dapp"]
+	path = course-certifier-dapp
+	url = https://github.com/vikramkarthikeyan/course-certifier-dapp.git
+[submodule "course-certifier-contract"]
+	path = course-certifier-contract
+	url = https://github.com/vikramkarthikeyan/course-certifier-contract.git
